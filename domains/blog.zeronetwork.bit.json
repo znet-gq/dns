@@ -39,6 +39,14 @@
             "source_info": {
                 "block_hash": "fee4675e38a608e1d98e209566e7dab7976d2050fa271cb0a356b145c760ba2d"
             }
+        },
+        {
+            "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+            "date": "Feb. 03, 2016, 0:18 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "7a5f2a2e8e98a751cdd73c9bc5165b01a078bdde5abef7d670d102f83d5e2b10"
+            }
         }
     ]
 }
