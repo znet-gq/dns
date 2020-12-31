@@ -63,6 +63,14 @@
             "source_info": {
                 "block_hash": "c22b3cf5831406256a771c29f1b5020739bf21c45486f6bf8c1e76d03a687c96"
             }
+        },
+        {
+            "address": "1BLuish1ZbwVfPaCSDVQkg5WW58hqEoYQw",
+            "date": "Aug. 24, 2017, 4:42 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "cceb2a9d0444c51cabc4ee97a1a000036ca0cb48d25b94b78c8367d8b868454b"
+            }
         }
     ]
 }

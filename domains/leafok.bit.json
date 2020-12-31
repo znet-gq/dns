@@ -1,0 +1,36 @@
+{
+    "history": [
+        {
+            "address": "1JZJMbERA9RLo3TPqEsQjXjybtWdBmUrg2/1JZJMbERA9RLo3TPqEsQjXjybtWdBmUrg2",
+            "date": "Jul. 15, 2017, 3:13 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "41d8679d075a095e1220efbbf0b70f13df337cb598e1a2af06651408a1bda810"
+            }
+        },
+        {
+            "address": "1JZJMbERA9RLo3TPqEsQjXjybtWdBmUrg2",
+            "date": "Jul. 15, 2017, 7:28 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "3435b8cd60959ec265f5a3e4b2d05f2e2a52a06408cc970fcdb8ea7069a89fd2"
+            }
+        },
+        {
+            "address": "1JZJMbERA9RLo3TPqEsQjXjybtWdBmUrg2",
+            "date": "Aug. 06, 2017, 7:55 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "919e7bf5d3cbffcaa4a0326bc865871c54f3bc77ec913a4e40d4f9d79617a957"
+            }
+        },
+        {
+            "address": "1JZJMbERA9RLo3TPqEsQjXjybtWdBmUrg2",
+            "date": "Aug. 21, 2017, 12:18 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "532ff1ac30333608008d52329bf63c0508d4b15ef6c845c307431f1681289326"
+            }
+        }
+    ]
+}
