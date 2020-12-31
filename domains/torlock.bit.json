@@ -23,6 +23,14 @@
             "source_info": {
                 "block_hash": "e7a73a2a7114ef361dfa9e237b6f883755475bac8bd36fe4f3017594112c4823"
             }
+        },
+        {
+            "address": "1BLX8kKevaG3vxsrLVXa3KVxEeQvHQtFgf",
+            "date": "Feb. 25, 2017, 2:04 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "789af0aca5c9a8dcb609a0ed0dc67d69c9cbe8c002f192a127d2683ead7e8d99"
+            }
         }
     ]
 }
