@@ -1,0 +1,20 @@
+{
+    "history": [
+        {
+            "address": "1Yc1VyAhxsh1LEw7xes9hFQMdfWLKuE6S",
+            "date": "Jan. 24, 2019, 3:44 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "c7634737dba7217e770e5277bf82c233d9f5643fc9d257a1e2c3f3b71699f13d"
+            }
+        },
+        {
+            "address": "1Yc1VyAhxsh1LEw7xes9hFQMdfWLKuE6S",
+            "date": "Feb. 20, 2019, 21:26 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "6486bcc45600ac011204436307e7dcd316a7f4332ba8cea02561d6fa05194c19"
+            }
+        }
+    ]
+}

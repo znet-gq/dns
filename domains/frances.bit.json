@@ -15,6 +15,22 @@
             "source_info": {
                 "block_hash": "6e0543d4b4699acd720fb3a95d018a875edc8cf7394b63d1de987e1d475fd8de"
             }
+        },
+        {
+            "address": "1zerofeFtEEvnTyfW8pytoDtbwVCTPv74",
+            "date": "Jan. 03, 2019, 2:35 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "580af33b4f1a73c55cac51ca27664326d2a1e13cbf924143894435b3ee0a1a6f"
+            }
+        },
+        {
+            "address": "1zerofeFtEEvnTyfW8pytoDtbwVCTPv74",
+            "date": "Feb. 04, 2019, 13:55 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "3e7c834bc1d7d9b739c5d18366edb8a80cd2fd81696b85e914574a174c21cfb6"
+            }
         }
     ]
 }

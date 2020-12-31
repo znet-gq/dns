@@ -23,6 +23,14 @@
             "source_info": {
                 "block_hash": "5c19696eb9306dbc5e1358a113dc393801be6cb72a37b9ede6c36275aeb88642"
             }
+        },
+        {
+            "address": "1HNjT7PfBKpRgxq7b48z7iKchpYG4F5o5T",
+            "date": "Nov. 04, 2018, 5:31 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "c5e667c06cfd845e20bb1c721cc77925f677f215f38294e1dabd045d5e77d50b"
+            }
         }
     ]
 }

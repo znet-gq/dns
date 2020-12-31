@@ -15,6 +15,14 @@
             "source_info": {
                 "block_hash": "1182461c1a334ea779af8812da908cdd1548727b04d851e3ae243090677b7e82"
             }
+        },
+        {
+            "address": "1MaGiC7b8zqNwL3BvN6ZAzwZVPQ3tjF5hw",
+            "date": "Feb. 02, 2019, 16:39 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "b156eafa707dfbb4fc4bafae2444ee9d426dfa7bc7c1f2766ab6e2424c9f7730"
+            }
         }
     ]
 }

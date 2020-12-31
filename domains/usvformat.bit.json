@@ -111,6 +111,30 @@
             "source_info": {
                 "block_hash": "a14c56e05aaa5f683df434e3ae307acc879d83f218e2dfe72ec90ae5c4c8fb8c"
             }
+        },
+        {
+            "address": "1HDMywbRZkin9HhmheaDFHCzaZhCfLhZLH",
+            "date": "Dec. 20, 2018, 2:50 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "a8bb1b754299b3be4db3c0443395301a69f1a96bf5abffbdee8a7b5f4155c44f"
+            }
+        },
+        {
+            "address": "1HDMywbRZkin9HhmheaDFHCzaZhCfLhZLH",
+            "date": "Dec. 20, 2018, 3:56 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "62c891c5ad78dd81bd5f33f5f40cd20973b8c29746817380399071910737b156"
+            }
+        },
+        {
+            "address": "1HDMywbRZkin9HhmheaDFHCzaZhCfLhZLH",
+            "date": "Dec. 20, 2018, 4:11 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "7f6f6fed201935684d5d2c5173ecfc2ff0b89479e6ab9e5988554c5eb6074cee"
+            }
         }
     ]
 }
