@@ -31,6 +31,22 @@
             "source_info": {
                 "block_hash": "214c0f230ae837777a95e0fddaf0fb45fe0dd1c8d0df0fe4f19cc9ae71ed56fe"
             }
+        },
+        {
+            "address": "1zeroazpdjSmHrk1Up26yfsvT7AMSi5iY",
+            "date": "Jun. 30, 2020, 3:19 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "7c6f2ba60b8ddcdd71e9974b13436885bfb371208e4f9bbd301ea95017a04656"
+            }
+        },
+        {
+            "address": "1MaGiC7b8zqNwL3BvN6ZAzwZVPQ3tjF5hw",
+            "date": "Jul. 04, 2020, 7:13 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "d7be6149b1636141222dbb7c92d18ed6be5b66b124f2ee98e29ef489bc3172ee"
+            }
         }
     ]
 }

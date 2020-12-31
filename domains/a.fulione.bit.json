@@ -23,6 +23,14 @@
             "source_info": {
                 "block_hash": "401711d6c299063f9e364563419e344203dbd207a6a124fda82f1f5bb6692fe4"
             }
+        },
+        {
+            "address": "https://onedh.xyz",
+            "date": "Jul. 08, 2020, 5:44 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "fc046ebd01346dada1fbdbf71a79a148dd276aae2c8d01aba1c192b3086820d9"
+            }
         }
     ]
 }

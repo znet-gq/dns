@@ -1,0 +1,20 @@
+{
+    "history": [
+        {
+            "address": "1zeroP3rRLS1mX2gLUchvHw8xNQp97BNS",
+            "date": "Jun. 27, 2020, 9:21 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "b200cb5cf027723de56d4b5a8859e2394bfdb8406010e1bc2b4c003ed758d103"
+            }
+        },
+        {
+            "address": "1NAmER288H4fQ7KrbA2nLhFeo2qaDLDD7D",
+            "date": "Jul. 04, 2020, 22:18 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "a19fe7bf8a8b026de55f13959d5612d646cb8ff7e0001e51b6063a18959752ba"
+            }
+        }
+    ]
+}

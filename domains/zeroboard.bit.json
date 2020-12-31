@@ -39,6 +39,14 @@
             "source_info": {
                 "block_hash": "46a0151f2ef6425da83b5741783f9d143d07f12b7af2dde050695dff6d9a73b0"
             }
+        },
+        {
+            "address": "1ZeroABd9C36y31kQ1UxJ9RJ875EQD7YH",
+            "date": "Jun. 26, 2020, 8:15 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "581cf4b68367cdf3a77a6c9a4a152fb9f5123b2ebdf897e595832b2b3ef045e3"
+            }
         }
     ]
 }
