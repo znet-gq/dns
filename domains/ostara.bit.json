@@ -7,6 +7,30 @@
             "source_info": {
                 "block_hash": "64fe7b23b87da17e529cbbd65f022915eb12eb11a6df52d914effcc68b0fe282"
             }
+        },
+        {
+            "address": "18hSwBRDyyHBG7oMZdSNGTx1ZzuDA42Rqy",
+            "date": "Mar. 02, 2018, 19:41 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "526f388ac4538f06efdb2c8b615eda123b783fcb9e7af9c390a7e020c341cd4a"
+            }
+        },
+        {
+            "address": "1QBXX6awTtsndLLxBQkPgiAooXqfpY8y7q",
+            "date": "Mar. 06, 2018, 1:51 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "51cc6d9e380645e24b3465b7f63b5c7bdf1b3bd55f2223ccc23a57b459c00dc4"
+            }
+        },
+        {
+            "address": "1QBXX6awTtsndLLxBQkPgiAooXqfpY8y7q",
+            "date": "May. 12, 2018, 12:02 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "09fab22e52ba577fa1bc9be29b602aaac7e3dfa11cb2c8aa5b34f58f830cf23e"
+            }
         }
     ]
 }
