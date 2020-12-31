@@ -95,6 +95,14 @@
             "source_info": {
                 "block_hash": "18e1956e53db5c931e4ddea0bdf53ef35f6272e6217fbb19c095fa9772102efd"
             }
+        },
+        {
+            "address": "1BLuish1ZbwVfPaCSDVQkg5WW58hqEoYQw",
+            "date": "Jun. 26, 2019, 9:48 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "30fcd7b8b00bb16be68d1f751ad072f58bda6e72a099d38fcb84b3675f6c0564"
+            }
         }
     ]
 }

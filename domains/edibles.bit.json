@@ -7,6 +7,14 @@
             "source_info": {
                 "block_hash": "ab91ce20e9cc67d26ed5a227239230420fc8748ecb9072db0012808e543177f7"
             }
+        },
+        {
+            "address": "1EDiBLESBJ3tcn1yiwPpjhirq9fS8yNAkZ",
+            "date": "Mar. 01, 2019, 19:14 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "5750ed9004abc1d329760cf5b8e4c6d7c1cd96bfcf6e32a92c4127a2381dd39a"
+            }
         }
     ]
 }
