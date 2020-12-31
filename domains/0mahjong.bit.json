@@ -1,0 +1,20 @@
+{
+    "history": [
+        {
+            "address": "1MAhjonGU1jMRBPNK7mypJkX64zpc3Ni7R",
+            "date": "Jul. 19, 2018, 12:25 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "a2f01dbdd177315d5bd44517ebe3580f1b3319a39832155bab8b46eb7732c9cc"
+            }
+        },
+        {
+            "address": "1MahJonghuYe9hUpKPkdNbqRvfcUxrEFYu",
+            "date": "Jul. 20, 2018, 15:16 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "d0459d2e422da74e0a0c2c1ea08478b849aad0117e2492289827498a55aba8a6"
+            }
+        }
+    ]
+}

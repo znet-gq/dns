@@ -7,6 +7,14 @@
             "source_info": {
                 "block_hash": "28e686a73029e5a5a18768ea6db12d99fc64957dc809ad2a93033c8b5056a9a0"
             }
+        },
+        {
+            "address": "1FrozENooexUJMsDSNCJwPuF2kw5ytCYtp",
+            "date": "Sep. 15, 2018, 9:05 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "4a59aebb5d630d169a3532298171dc86c9a89e6fd842393e2aab95d473fc71f1"
+            }
         }
     ]
 }

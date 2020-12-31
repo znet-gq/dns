@@ -7,6 +7,22 @@
             "source_info": {
                 "block_hash": "c39a9fa3b32c1a9ef81cb24678b2cea8c0c44b1251f055f209b786cfe9001c36"
             }
+        },
+        {
+            "address": "1zerofeFtEEvnTyfW8pytoDtbwVCTPv74",
+            "date": "Jun. 29, 2018, 2:24 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "0198a7fac203855333be79425d7888f7b6a42c4f04d63790b24ddfe4bb737eb7"
+            }
+        },
+        {
+            "address": "1zerofeFtEEvnTyfW8pytoDtbwVCTPv74",
+            "date": "Sep. 10, 2018, 1:02 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "ca28f4050ade976733065bfa2caea3949cd375ff5b3114c07ec0604eb052a7fe"
+            }
         }
     ]
 }

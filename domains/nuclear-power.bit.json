@@ -15,6 +15,14 @@
             "source_info": {
                 "block_hash": "516d01d938824e425b8979d3e64108c8bab04eacdf09ae68d7edad9c75e7293d"
             }
+        },
+        {
+            "address": "1ENergy3fcrcBNU2xtQ4uN2hnBPM4AeLDW",
+            "date": "Sep. 20, 2018, 5:50 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "0560a1f84b2e70768fb01b21c55b4a913ed5dae77d9dca25e35f1ffed2726384"
+            }
         }
     ]
 }
