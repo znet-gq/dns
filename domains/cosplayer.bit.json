@@ -39,6 +39,14 @@
             "source_info": {
                 "block_hash": "53cefce04e0ea170687294822803a9de65862140b13394e3eb52c7d608c1ab1a"
             }
+        },
+        {
+            "address": "1CHangE33RJJjo4PAoH4d1vtjCwsYgnjcs",
+            "date": "Jan. 16, 2020, 4:47 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "17ad0e57accfcc3264e181596f7ea53746e17637768a9d0a86cb80202728a511"
+            }
         }
     ]
 }

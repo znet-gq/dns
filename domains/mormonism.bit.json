@@ -15,6 +15,14 @@
             "source_info": {
                 "block_hash": "cff9db9aca492be596167dfa2d4ec502a3ce2e3afe7f6f4f66feb9d306cf0b08"
             }
+        },
+        {
+            "address": "1MormoNcqKvs5SdF8g1MDyMUrcYsh28Q1i",
+            "date": "Nov. 25, 2019, 5:09 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "8c3731c06c1b5179a711c6ebedbe6207b2b3ba6d697dc51c15b6d5a2ef2a8b24"
+            }
         }
     ]
 }
