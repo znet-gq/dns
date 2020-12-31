@@ -55,6 +55,14 @@
             "source_info": {
                 "block_hash": "5fdf3505c01033252832c80ecac1e4c5f710000e9cd95aae0ab3eade5b65b6b7"
             }
+        },
+        {
+            "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+            "date": "Mar. 11, 2017, 18:28 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "5f5a363a70235732f53821b4e5f48250efac99962c32b3c740505ddbd27928b1"
+            }
         }
     ]
 }
