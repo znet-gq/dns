@@ -31,6 +31,14 @@
             "source_info": {
                 "block_hash": "e4cc44ffc256824382fb575b340651e63b59030715ca1d000fa3fafe7855bbda"
             }
+        },
+        {
+            "address": "1zerofeFtEEvnTyfW8pytoDtbwVCTPv74",
+            "date": "Sep. 12, 2019, 20:46 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "194a37ba169ba2bda37e6ce60ee02be26ab8853f475e9f23aa1d1b6f196d522b"
+            }
         }
     ]
 }

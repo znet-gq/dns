@@ -103,6 +103,22 @@
             "source_info": {
                 "block_hash": "1fc8e851c90e007768a399875eb196832981ba014c226527448768ba91d4057c"
             }
+        },
+        {
+            "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+            "date": "Oct. 16, 2019, 20:27 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "89a67cee90daec8a5c2f4f48fc92566667a7329f5a4b04d99cdc75be982b25f1"
+            }
+        },
+        {
+            "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+            "date": "Oct. 16, 2019, 21:31 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "1e17204474f57edbd1813cd6268279babfa98b86ad46451c482094072d9941bb"
+            }
         }
     ]
 }
