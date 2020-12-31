@@ -7,6 +7,14 @@
             "source_info": {
                 "block_hash": "cc68f4b78efe8c295b6a7956897d3a1ba1335a5a5c7beee9fcb67151e11e18c5"
             }
+        },
+        {
+            "address": "1Jq8JC1V6yB4HxqTfmoKDDdPJ4tby79RXT",
+            "date": "Apr. 25, 2016, 20:36 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "7c70e958f55aecd34d78bd93bb8afd22d36e7d3744c3f1c884a1307fdf8cf945"
+            }
         }
     ]
 }
