@@ -7,6 +7,14 @@
             "source_info": {
                 "block_hash": "c06426b5d95e6912811f97df3eb6a03e149a711de077565b07a5218bc86d6818"
             }
+        },
+        {
+            "address": "13nE1DGkKx4d813xkX1NBJ7jadAFPDmpUJ",
+            "date": "Jul. 06, 2015, 21:24 p.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "7ba2724a4c1ebb4e030799c14b4eddfbe8ee6035d9aff443fc3f1b48c1ee73b8"
+            }
         }
     ]
 }
