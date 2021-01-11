@@ -7,6 +7,14 @@
             "source_info": {
                 "block_hash": "ca6198a0cd73ab2a0522742d1a13321f4cef2246013a6cde4428e24577083b27"
             }
+        },
+        {
+            "address": "1GirLS7mNQNLjJUVwgWvKTkam8z31fhQ5R",
+            "date": "Jan. 11, 2021, 3:33 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "38159fc3b067293a5676c082ae3e327a7d974e68a04b76ff1d9930d136d0ed40"
+            }
         }
     ]
 }
