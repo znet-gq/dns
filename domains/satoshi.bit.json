@@ -55,6 +55,14 @@
             "source_info": {
                 "block_hash": "9b35f107f96401a811fc6e166bc45c10fb0d3f02b7d2e0b7b81df8dc8b085a24"
             }
+        },
+        {
+            "address": "1BitCoinjYJtV57tqPAjUeKjiv21vFK7oU",
+            "date": "Feb. 10, 2021, 2:11 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "55caf3aa99ec5d024e2a57164440c6d933178b7b8229e10b29595c15b9eef8e8"
+            }
         }
     ]
 }
