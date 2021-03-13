@@ -55,6 +55,14 @@
             "source_info": {
                 "block_hash": "2609f6fdbd7e4e4632984a28cc41b5311048b43c0a521ea07fcd87627b0f0b0e"
             }
+        },
+        {
+            "address": "1NAMEr1kPi3WcT1shaVL6ozYF5bU9oDVG9",
+            "date": "March 13, 2021, 11:06 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "a96a6ea6339a69f3ccf60f4266ffda8fdaeb42c4295908105a56733ccd941891"
+            }
         }
     ]
 }
