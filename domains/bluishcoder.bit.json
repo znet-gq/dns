@@ -127,6 +127,14 @@
             "source_info": {
                 "block_hash": "1e60b1f97bcca6f57d5e32dc714ecb89ebbeebee0d17449eacefb5acf28ad4b9"
             }
+        },
+        {
+            "address": "1BLuish1ZbwVfPaCSDVQkg5WW58hqEoYQw",
+            "date": "April 28, 2021, 3:04 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "1725de6cbce305581840e1d5d6ca0cdcde9accbaf7f73b6c0416a533ba7fbe5c"
+            }
         }
     ]
 }
