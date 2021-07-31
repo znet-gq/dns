@@ -87,6 +87,22 @@
             "source_info": {
                 "block_hash": "7a287d0794fb853f85f0fcd1720ea915d73174bf2591aa26f611242cfb1ecdf1"
             }
+        },
+        {
+            "address": "1BiBLE4U2fLzhr5i2nt1Uxz57CzWktdTSv",
+            "date": "July 31, 2021, 7 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "284418b7877f6c02601596154f5b690f915644314c8b2a2e47eaeb6ef99b4bef"
+            }
+        },
+        {
+            "address": "1BiBLE4U2fLzhr5i2nt1Uxz57CzWktdTSv",
+            "date": "July 31, 2021, 7:37 a.m.",
+            "source": "namecoin",
+            "source_info": {
+                "block_hash": "6447298d559d88f19b332cbaede52cc0b9f028c4c7d13da0d089e3aa66477a66"
+            }
         }
     ]
 }
